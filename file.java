@@ -14,3 +14,9 @@ void feature2()
 {
     System.out.println("Feature two added");
 }
+
+void editingInGitub()
+{
+    System.out.println("use git pull now");
+}
+
