@@ -10,3 +10,7 @@ void feature1()
 {
     System.out.println("Feature one added");
 }
+void feature2()
+{
+    System.out.println("Feature two added");
+}
