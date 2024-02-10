@@ -5,3 +5,8 @@ void func()
 {
     System.out.println("This function says Hello");
 }
+
+void feature1()
+{
+    System.out.println("Feature one added");
+}
